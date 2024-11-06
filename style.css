@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.container {
+    max-width: 1400px;
+    margin: 0 auto;
+    width: 100%;
+}
+
+.flex100k {
+    display: flex;
+    justify-content: space-between;
+    align-items:  center;
+    margin-top: 1.7rem;
+}
+
+.header_box {
+    display: flex;
+    gap: 20px;
+}
+
+.header_box2 {
+    display: flex;
+}
+
+.ui_li {
+    display: flex;
+    gap: 40px;
+    align-items: ;
+}
+
+.header_box3 {
+    display: flex;
+    gap: 25px;
+}
