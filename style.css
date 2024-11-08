@@ -335,6 +335,54 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
-.backgroundblue h1{
-    
+.backgroungblue{
+    margin-top: 10rem;
+    background: #165DF51A;
+    height: 435px;
+    align-items: center;
+}
+
+.backgroungblue h1{
+    font-size: 50px;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    font-weight: 600;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding-top: 6rem;
+}
+
+.backgroungblue p{
+    font-size: 16px;
+    font-weight: 500;
+    color: #3a3a3a;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 650px;
+    margin: auto;
+    text-align: center;
+    margin-top: 35px;
+}
+
+.btn2:hover {
+    border: 3px solid #165DF5;
+    background-color: #fff;
+    color: black;
+    cursor: pointer;
+}
+
+.btn2 {
+    margin: auto;
+    display: flex;
+    padding-left: 30px;
+    padding-top: 12px;
+    margin-top: 3rem;
+    padding: auto;
+    justify-items: center;
+    border: 3px solid #165DF5;
+    background: #165DF5;
+    border-radius: 30px;
+    width: 200px;
+    height: 50px;
+    color: #fff;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
