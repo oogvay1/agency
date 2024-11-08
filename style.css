@@ -388,6 +388,15 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
+.container8 {
+    justify-content: space-evenly;
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1500px;
+    margin-top: 20rem;
+    gap: 1rem;
+}
+
 .p_main_Cover2 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     margin: auto;
@@ -398,7 +407,6 @@
 .flex_section4 {
     display: flex;
     justify-content: center;
-    justify-content: space-around;
     align-items: center;
     margin-top: 5rem;
 }
@@ -412,6 +420,7 @@
 }
 
 .ratatuy2 {
+    width: 450px;
     margin-top: 5rem;
     max-width: 565px;
     padding-left: 1.5rem;
@@ -419,6 +428,7 @@
 }
 
 .ratatuy1 h2 {
+    width: 430px;
     font-size: 30px;
     font-weight: 500;
     line-height: 40.76px;
