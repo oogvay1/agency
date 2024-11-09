@@ -154,6 +154,7 @@
 
 .main_img {
     background-image: url(imgs/Group\ 18.png);
+    border-radius: 20px;
     width: 1200px;
     height: 530px;
     margin-top: 4rem;
